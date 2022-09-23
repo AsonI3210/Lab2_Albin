@@ -7,6 +7,7 @@ import java.util.HashSet;
 
 public class DNA {
     String nucSeq;
+    String nucSeq2;
     String ogNucSeq;
     boolean valid = true;
     HashSet<String> codons = new HashSet<String>();
